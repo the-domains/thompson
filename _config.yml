@@ -1,0 +1,23 @@
+name: Thompson
+favicon: null
+layout_spectrum: 0.3281206723768264
+typography_spectrum: 0.5890576429665089
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8195394969079643
+  lightness: 0.6251696099061519
+  saturation: 0.30530758388340473
+  rhythmicContrast: 0.004607040900737047
+purpose: []
