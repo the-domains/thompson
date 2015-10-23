@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thompson]]></title>
+        <description><![CDATA[Thompson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 23 Oct 2015 22:16:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Epic Photo Dude!]]></title>
+            <description><![CDATA[<article><h1>Epic Photo Dude!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5682d3f9-ae4a-499e-b71e-78c5c676769d.jpg"></article>]]></description>
+            <link>undefinedepic-photo-dude/index.html</link>
+            <guid isPermaLink="false">64c83e89-8a55-49f3-bd63-177819f2e91d</guid>
+            <pubDate>Fri, 23 Oct 2015 22:16:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
