@@ -1,6 +1,6 @@
 name: Thompson
 favicon: null
-layout_spectrum: 0.76443
+layout_spectrum: 0.40671
 typography_spectrum: 0.97659
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#c4a69c'
     - '#aa7f20'
     - '#843a05'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 1
-  saturation: 0.75
+  saturation: 0.6875
   rhythmicContrast: 0.75
 purpose: []
